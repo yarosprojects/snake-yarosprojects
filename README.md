@@ -28,7 +28,7 @@ You can try the game online: [Insert your demo link here]
 1. Clone the repository:
 ```bash
 git clone https://github.com/yarosprojects/snake-yarosprojects.git
-cd tetris
+cd snake-yarosprojects
 ```
 
 2. Install dependencies:
